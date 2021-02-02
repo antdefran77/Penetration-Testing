@@ -4,7 +4,7 @@ In this activity, I played the role of an independent penetration tester hired b
 
 ## GoodSecurity Penetration Report
 
-JosephMossman@GoodSecurity.com
+AnthonyDeFrancesco@GoodSecurity.com
 
 [Report Deliverable](Resources/Report.docx)
 
